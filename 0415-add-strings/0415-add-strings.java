@@ -4,19 +4,19 @@ class Solution {
         int n2=num2.length()-1;
         int i=n1;
         int j=n2;
-        String s="";
+        StringBuilder s=new StringBuilder("");
         int carry=0;
         while(i>=0 && j>=0){
             int a=num1.charAt(i)-'0';
             int b=num2.charAt(j)-'0';
             int sum=a+b+carry;
             if(sum>9){
-                s=(sum%10)+s;
+                s.insert(0,sum%10);
                 sum=sum/10;
                 carry=sum;
             }
             else{
-                s=sum+s;
+                s.insert(0,sum);
                 carry=0;
             }
             i--;j--;
@@ -25,12 +25,12 @@ class Solution {
              int a=num1.charAt(i)-'0';
              int sum=a+carry;
             if(sum>9){
-                s=(sum%10)+s;
+               s.insert(0,sum%10);
                 sum=sum/10;
                 carry=sum;
             }
             else{
-                s=sum+s;
+                s.insert(0,sum);
                 carry=0;
             }
             i--;
@@ -39,17 +39,18 @@ class Solution {
              int b=num2.charAt(j)-'0';
              int sum=b+carry;
             if(sum>9){
-                s=(sum%10)+s;
+                s.insert(0,sum%10);
                 sum=sum/10;
                 carry=sum;
             }
             else{
-                s=sum+s;
+                s.insert(0,sum);
                 carry=0;
             }
             j--;
         }
-        if(carry!=0){s=carry+s;}
-        return s;
+        if(carry!=0){s.insert(0,carry);
+                carry=0;}
+        return s.toString();
     }
 }
