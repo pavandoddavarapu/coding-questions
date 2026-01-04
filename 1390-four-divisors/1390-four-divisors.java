@@ -1,29 +1,23 @@
 class Solution {
     public int sumFourDivisors(int[] nums) {
-        int memo[]=new int[10000+1];
-        boolean memb[]=new boolean[10000+1];
-        int k=0;
+        int ans=0;
         for(int i=0;i<nums.length;i++){
-            Set<Integer> hs=new HashSet<Integer>();
-            int n=nums[i];
-            int j=2;
-            if(memo[i]==0||memb[i]==false){
-            for(int l=1;l*l<=n;l++){
-                if(n%l==0){hs.add(l);hs.add(n/l);}
-            }
-            
+            int a=nums[i];
+            int sum=0;
             int count=0;
-            if(hs.size()==4){
-                for(int a: hs){
-                    k=k+a;
-                    count=count+a;
+            for(int j=2;j<a;j++){
+                if(a%j==0){
+                    sum=sum+j;
+                    int b=a/j;
+                    // sum=sum+b;
+                    count++;
+                    
                 }
-            memo[i]=count;
+                
+                if(count>2){sum=0;break;}
             }
-            }
-            else{k=k+memo[i];}
-            memb[i]=true;
+            if(count!=0 && count!=1 && sum!=0){ans=ans+sum+1+a;}
         }
-        return k;
+        return ans;
     }
 }
