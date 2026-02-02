@@ -4,14 +4,17 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             hm.put(nums[i],hm.getOrDefault(nums[i],0)+1);
         }
-        ArrayList<Integer> arr=new ArrayList<>(hm.values());
-        Collections.sort(arr,Collections.reverseOrder());
-        int a=arr.get(0);
-        int count=0;
-        for(int e: arr){
+        PriorityQueue<Integer> arr=new PriorityQueue<>(Comparator.reverseOrder());
+        arr.addAll(hm.values());
+        int a=arr.poll();
+        int count=a;
+        int c=arr.size();
+        for(int i=0;i<c;i++){
+            int e=arr.poll();
             System.out.print(e+" ");
             if(e==a)count=count+a;
             else break;
+            
         }
         return count;
     }
