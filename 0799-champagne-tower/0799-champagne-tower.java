@@ -1,6 +1,6 @@
 class Solution {
     public double champagneTower(int poured, int query_row, int query_glass) {
-        double ans[][]=new double[2000][2000];
+        double ans[][]=new double[200][200];
         ans[0][0]=poured;
         int level=0;
         while(level<query_row+1){
