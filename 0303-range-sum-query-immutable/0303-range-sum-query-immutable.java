@@ -1,8 +1,8 @@
 class NumArray {
-    int n[];
+    
     int sum[];
     public NumArray(int[] nums) {
-        n=nums;
+        
         sum=new int[nums.length];
         sum[0]=nums[0];
         for(int i=1;i<nums.length;i++){
