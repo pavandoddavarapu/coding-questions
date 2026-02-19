@@ -1,6 +1,6 @@
 class Solution {
     public int maxVowels(String s, int k) {
-        char st[]=s.toCharArray();
+        // char st[]=s.toCharArray();
         int count=0;
         int ans=0;
         for(int i=0;i<k;i++){
