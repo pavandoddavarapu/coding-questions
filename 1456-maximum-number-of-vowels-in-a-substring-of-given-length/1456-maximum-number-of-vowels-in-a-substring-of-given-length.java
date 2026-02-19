@@ -4,18 +4,18 @@ class Solution {
         int count=0;
         int ans=0;
         for(int i=0;i<k;i++){
-            char c=st[i];
+            char c=s.charAt(i);
             if(c=='a' || c=='e' || c=='i' || c=='o' || c=='u'){
                 count++;
             }
         }
         ans=count;
         for(int i=k;i<s.length();i++){
-            char c=st[i-k];
+            char c=s.charAt(i-k);
             if(c=='a' || c=='e' || c== 'i' || c== 'o' ||  c=='u'){
                 count--;
             }
-            c=st[i];
+            c=s.charAt(i);
             if(c=='a' || c=='e' || c=='i' || c=='o' || c=='u'){
                 count++;
             }
