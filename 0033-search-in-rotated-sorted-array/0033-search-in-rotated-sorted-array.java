@@ -6,6 +6,7 @@ class Solution {
             int mid=(start+end)/2;
             if(target==nums[mid])return mid;
             if(nums[start]<=nums[mid]){
+                
                 if(nums[start]<=target && nums[mid]>=target){
                     end=mid-1;
                 }
