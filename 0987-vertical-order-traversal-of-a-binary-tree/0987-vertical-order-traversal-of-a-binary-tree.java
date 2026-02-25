@@ -13,37 +13,45 @@
  *     }
  * }
  */
-
 class Solution {
-    int small=100001;
     public List<List<Integer>> verticalTraversal(TreeNode root) {
-        HashMap<Integer,ArrayList<Integer>> hm=new HashMap<>();
-        List<List<Integer>> ls=new ArrayList<>();
-        helper(root,0,hm);
-        for(int i=small;hm.containsKey(i);i++){
-            ArrayList<Integer> a=new ArrayList<>(hm.get(i));
-            Collections.sort(a);
-            ls.add(a);
+        List<List<Integer>> result= new ArrayList<>();
+        TreeMap<Integer,TreeMap<Integer,ArrayList<Integer>>> tmap=new TreeMap<>();
+        dfs(root,tmap,0,0);
+        //column wise sorting
+        for(Map.Entry<Integer,TreeMap<Integer,ArrayList<Integer>>> col : tmap.entrySet()){
+            TreeMap<Integer,ArrayList<Integer>> tm= col.getValue();
+            ArrayList<Integer> list=new ArrayList<>();
+            for(Map.Entry<Integer,ArrayList<Integer>> row : tm.entrySet()){
+                ArrayList<Integer> sublist=row.getValue();
+                Collections.sort(sublist);
+                list.addAll(sublist);
+            }
+            result.add(list);
         }
-        System.out.print(hm);
-        return ls;
-
+        return result;
     }
-    public void helper(TreeNode root,int i, HashMap<Integer,ArrayList<Integer>> hm){
-        if(root==null){
-            return;
+    public void dfs(TreeNode root,TreeMap<Integer,TreeMap<Integer,ArrayList<Integer>>> tmap,int i,int j){
+        if(root==null)return ;
+        
+        if(tmap.containsKey(i)){
+            TreeMap<Integer,ArrayList<Integer>> row=tmap.get(i);
+            if(row.containsKey(j)){
+                tmap.get(i).get(j).add(root.val);
+            }
+            else{ArrayList<Integer> ls=new ArrayList<>();ls.add(root.val);tmap.get(i).put(j,ls);}
+
         }
         else{
-            if(hm.containsKey(i)){hm.get(i).add(root.val);}
-
-            else{
-                ArrayList<Integer> ls=new ArrayList<>();
-                ls.add(root.val);
-                hm.put(i,ls);}
+            TreeMap<Integer,ArrayList<Integer>> row=new TreeMap<>();
+            ArrayList<Integer> ls=new ArrayList<>();
+            ls.add(root.val);
+            row.put(j,ls);
+            
+            tmap.put(i,row);
         }
-        if(i<small)small=i;
-        helper(root.left,i-1,hm);
-        helper(root.right,i+1,hm);
-        return;
+        dfs(root.left,tmap,i-1,j+1);
+        dfs(root.right,tmap,i+1,j+1);
     }
+
 }
