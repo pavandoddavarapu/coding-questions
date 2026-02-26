@@ -21,17 +21,19 @@ class Solution {
         for(Map.Entry<Integer,TreeMap<Integer,ArrayList<Integer>>> col:tmap.entrySet()){
             TreeMap<Integer,ArrayList<Integer>> tm=col.getValue();
             List<Integer> list=new ArrayList<>();
-            for(Map.Entry<Integer,ArrayList<Integer>> row:tm.entrySet()){
-                ArrayList<Integer> sublist=row.getValue();
-                Collections.sort(sublist);
-                list.addAll(sublist);
-            }
-            result.add(list);
+        for(Map.Entry<Integer,ArrayList<Integer>> row:tm.entrySet()){
+            ArrayList<Integer> sublist=row.getValue();
+            Collections.sort(sublist);
+            list.addAll(sublist);
         }
-        return result;
+        result.add(list);
+    }
+    return result;
     }
     public void dfs(TreeNode root,TreeMap<Integer,TreeMap<Integer,ArrayList<Integer>>> tmap,int i,int j){
-        if(root==null)return ;
+        if(root==null)return;
+        dfs(root.left,tmap,i-1,j+1);
+        dfs(root.right,tmap,i+1,j+1);
         if(tmap.containsKey(i)){
             if(tmap.get(i).containsKey(j)){
                 tmap.get(i).get(j).add(root.val);
@@ -43,13 +45,12 @@ class Solution {
             }
         }
         else{
-            ArrayList<Integer> arr=new ArrayList<>();
             TreeMap<Integer,ArrayList<Integer>> tm=new TreeMap<>();
+            ArrayList<Integer> arr=new ArrayList<>();
             arr.add(root.val);
             tm.put(j,arr);
             tmap.put(i,tm);
+
         }
-        dfs(root.left,tmap,i-1,j+1);
-        dfs(root.right,tmap,i+1,j+1);
     }
 }
