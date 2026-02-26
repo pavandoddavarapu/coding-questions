@@ -16,24 +16,17 @@
 class Solution {
     public List<List<Integer>> verticalTraversal(TreeNode root) {
         List<List<Integer>> result=new ArrayList<>();
-        if(root==null)return result;
         TreeMap<Integer,TreeMap<Integer,ArrayList<Integer>>> tmap=new TreeMap<>();
-        //column
-        //row
-        //ArrayList
         dfs(root,tmap,0,0);
-        for(Map.Entry<Integer,TreeMap<Integer,ArrayList<Integer>>> col: tmap.entrySet()){
+        for(Map.Entry<Integer,TreeMap<Integer,ArrayList<Integer>>> col:tmap.entrySet()){
             TreeMap<Integer,ArrayList<Integer>> tm=col.getValue();
-            ArrayList<Integer> list=new ArrayList<>();
-            for(Map.Entry<Integer,ArrayList<Integer>> row: tm.entrySet()){
-
+            List<Integer> list=new ArrayList<>();
+            for(Map.Entry<Integer,ArrayList<Integer>> row:tm.entrySet()){
                 ArrayList<Integer> sublist=row.getValue();
                 Collections.sort(sublist);
                 list.addAll(sublist);
-
             }
             result.add(list);
-
         }
         return result;
     }
@@ -51,13 +44,12 @@ class Solution {
         }
         else{
             ArrayList<Integer> arr=new ArrayList<>();
+            TreeMap<Integer,ArrayList<Integer>> tm=new TreeMap<>();
             arr.add(root.val);
-            TreeMap<Integer,ArrayList<Integer>>tp=new TreeMap<>();
-            tp.put(j,arr);
-            tmap.put(i,tp);
+            tm.put(j,arr);
+            tmap.put(i,tm);
         }
         dfs(root.left,tmap,i-1,j+1);
         dfs(root.right,tmap,i+1,j+1);
-        return;
     }
 }
