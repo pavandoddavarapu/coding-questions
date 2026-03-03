@@ -13,7 +13,7 @@ class Solution {
         boolean visited[][] =new boolean[image.length][image[0].length];
         Queue<pair> c=new LinkedList<>();
         c.add(new pair(sr,sc));
-       
+       image[sr][sc]=color;
         while(!c.isEmpty()){
             pair p=c.poll();
             int i=p.a;
