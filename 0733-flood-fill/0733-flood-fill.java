@@ -8,6 +8,7 @@ class Solution {
         }
     }
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+        if(image[sr][sc]==color)return image;
         int ac=image[sr][sc];
         boolean visited[][] =new boolean[image.length][image[0].length];
         Queue<pair> c=new LinkedList<>();
