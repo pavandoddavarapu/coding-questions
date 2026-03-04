@@ -19,4 +19,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0733-flood-fill](https://github.com/pavandoddavarapu/coding-questions/tree/main/0733-flood-fill/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/pavandoddavarapu/coding-questions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
