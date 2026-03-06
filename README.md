@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0733-flood-fill](https://github.com/pavandoddavarapu/coding-questions/tree/main/0733-flood-fill/) | Easy |
+| [0735-asteroid-collision](https://github.com/pavandoddavarapu/coding-questions/tree/main/0735-asteroid-collision/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/pavandoddavarapu/coding-questions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -30,4 +31,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/pavandoddavarapu/coding-questions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/pavandoddavarapu/coding-questions/tree/main/0735-asteroid-collision/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/pavandoddavarapu/coding-questions/tree/main/0735-asteroid-collision/) | Medium |
 <!---LeetCode Topics End-->
