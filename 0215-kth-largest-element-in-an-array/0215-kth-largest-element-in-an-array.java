@@ -1,24 +1,19 @@
-import java.util.Collections;
 import java.util.PriorityQueue;
 
 class Solution {
     public int findKthLargest(int[] nums, int k) {
-        // Create a Min-Heap (default) to store the k largest elements.
-        // Or, use a Max-Heap with reverseOrder and poll k times.
+        // A min-heap (default for PriorityQueue in Java)
+        PriorityQueue<Integer> pq = new PriorityQueue<>(); 
         
-        // Option 1: Using a Max-Heap (as in the original code's intent)
-        PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Collections.reverseOrder());
-        
-        for (int num : nums) {
-            maxHeap.add(num);
+        for (int a : nums) {
+            pq.add(a);
+            // If the heap size exceeds k, remove the smallest element (the root)
+            if (pq.size() > k) {
+                pq.poll();
+            }
         }
         
-        int result = 0;
-        // Poll k-1 times to reach the Kth largest element
-        for (int i = 0; i < k; i++) {
-            result = maxHeap.poll();
-        }
-        
-        return result;
+        // The root of the min-heap will be the k-th largest element
+        return pq.poll();
     }
 }
