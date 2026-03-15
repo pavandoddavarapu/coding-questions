@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/pavandoddavarapu/coding-questions/tree/main/0146-lru-cache/) | Medium |
+| [1622-fancy-sequence](https://github.com/pavandoddavarapu/coding-questions/tree/main/1622-fancy-sequence/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/pavandoddavarapu/coding-questions/tree/main/0002-add-two-numbers/) | Medium |
+| [1622-fancy-sequence](https://github.com/pavandoddavarapu/coding-questions/tree/main/1622-fancy-sequence/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,4 +117,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/pavandoddavarapu/coding-questions/tree/main/0014-longest-common-prefix/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/pavandoddavarapu/coding-questions/tree/main/1622-fancy-sequence/) | Hard |
 <!---LeetCode Topics End-->
