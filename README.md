@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/pavandoddavarapu/coding-questions/tree/main/0146-lru-cache/) | Medium |
+| [0264-ugly-number-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/0264-ugly-number-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0264-ugly-number-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/0264-ugly-number-ii/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/pavandoddavarapu/coding-questions/tree/main/0002-add-two-numbers/) | Medium |
+| [0264-ugly-number-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/0264-ugly-number-ii/) | Medium |
 | [1622-fancy-sequence](https://github.com/pavandoddavarapu/coding-questions/tree/main/1622-fancy-sequence/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -140,5 +143,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0264-ugly-number-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0542-01-matrix](https://github.com/pavandoddavarapu/coding-questions/tree/main/0542-01-matrix/) | Medium |
 <!---LeetCode Topics End-->
