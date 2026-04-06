@@ -5,13 +5,13 @@ class Solution {
         for(int a: arr){
             pq.add(a);
         }
-        int count=0;
+        int ans=0;
         while(pq.size()>1){
             int a=pq.poll();
             int b=pq.poll();
+            ans=ans+a+b;
             pq.add(a+b);
-            count=count+a+b;
         }
-        return count;
+        return ans;
     }
 }
