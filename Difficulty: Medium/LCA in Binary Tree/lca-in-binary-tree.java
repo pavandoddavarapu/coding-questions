@@ -1,0 +1,22 @@
+/*
+class Node {
+    int data;
+    Node left, right;
+
+    Node(int item)
+    {
+        data = item;
+        left = right = null;
+    }
+}*/
+
+class Solution {
+    Node lca(Node root, int n1, int n2) {
+        // code here
+        if(root==null || root.data==n1 || root.data==n2)return root;
+        Node leftAncestor=lca(root.left,n1,n2);
+        Node rightAncestor=lca(root.right,n1,n2);
+        if(leftAncestor!=null && rightAncestor!=null)return root;
+        return leftAncestor!=null ? leftAncestor : rightAncestor;
+    }
+}
