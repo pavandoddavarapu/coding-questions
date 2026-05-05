@@ -23,7 +23,7 @@ class Solution {
             pair p1=q.poll();
             if(p1.i-1>=0  && grid[p1.i-1][p1.j]=='1'){grid[p1.i-1][p1.j]=2;q.add(new pair(p1.i-1,p1.j));}
             if(p1.i+1<grid.length && grid[p1.i+1][p1.j]=='1'){grid[p1.i+1][p1.j]=2;q.add(new pair(p1.i+1,p1.j));}
-            if(p1.j-1>=0 && grid[p1.i][p1.j-1]=='1'){grid[p1.i][p1.j-1]=2;q.add(new pair(p1.i,p1.j-1))}
+            if(p1.j-1>=0 && grid[p1.i][p1.j-1]=='1'){grid[p1.i][p1.j-1]=2;q.add(new pair(p1.i,p1.j-1));}
             if(p1.j+1<grid[0].length && grid[p1.i][p1.j+1]=='1'){grid[p1.i][p1.j+1]=2;q.add(new pair(p1.i,p1.j+1));}
         }
     }
