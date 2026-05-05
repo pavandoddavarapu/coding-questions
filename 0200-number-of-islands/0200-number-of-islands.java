@@ -15,25 +15,23 @@ class Solution {
             for(int j=0;j<grid[0].length;j++){
                 if(grid[i][j]=='1'){
                     count++;
-                    bfs(grid,vis,new pair(i,j));
-                }
-            }
-        }
-        return count;
-    }
-
-    public void bfs(char[][] grid,boolean vis[][],pair p){
-        Queue<pair> q=new LinkedList<>();
+                    Queue<pair> q=new LinkedList<>();
+                    pair p=new pair(i,j);
         q.add(p);
         vis[p.i][p.j]=true;
         while(!q.isEmpty()){
             pair p1=q.poll();
-            int i=p1.i;
-            int j=p1.j;
-            if(p1.i-1>=0 && vis[i-1][j]==false && grid[i-1][j]=='1'){grid[i-1][j]=2;q.add(new pair(i-1,j));vis[i-1][j]=true;}
-            if(p1.i+1<grid.length && vis[i+1][j]==false && grid[i+1][j]=='1'){grid[i+1][j]=2;q.add(new pair(i+1,j));vis[i+1][j]=true;}
-            if(p1.j-1>=0 && vis[i][j-1]==false && grid[i][j-1]=='1'){grid[i][j-1]=2;q.add(new pair(i,j-1));vis[i][j-1]=true;}
-            if(p1.j+1<grid[0].length && vis[i][j+1]==false && grid[i][j+1]=='1'){grid[i][j+1]=2;q.add(new pair(i,j+1));vis[i][j+1]=true;}
+            
+            if(p1.i-1>=0 && vis[p1.i-1][p1.j]==false && grid[p1.i-1][p1.j]=='1'){grid[p1.i-1][p1.j]=2;q.add(new pair(p1.i-1,p1.j));vis[p1.i-1][p1.j]=true;}
+            if(p1.i+1<grid.length && vis[p1.i+1][p1.j]==false && grid[p1.i+1][p1.j]=='1'){grid[p1.i+1][p1.j]=2;q.add(new pair(p1.i+1,p1.j));vis[p1.i+1][p1.j]=true;}
+            if(p1.j-1>=0 && vis[p1.i][p1.j-1]==false && grid[p1.i][p1.j-1]=='1'){grid[p1.i][p1.j-1]=2;q.add(new pair(p1.i,p1.j-1));vis[p1.i][p1.j-1]=true;}
+            if(p1.j+1<grid[0].length && vis[p1.i][p1.j+1]==false && grid[p1.i][p1.j+1]=='1'){grid[p1.i][p1.j+1]=2;q.add(new pair(p1.i,p1.j+1));vis[p1.i][p1.j+1]=true;}
         }
     }
-}
+                }
+            }
+        
+        return count;
+    }
+
+    }
