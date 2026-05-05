@@ -13,7 +13,7 @@ class Solution {
             for(int j=0;j<grid[0].length;j++){
                 if(grid[i][j]=='1'){
                     count++;
-                    Queue<pair> q=new LinkedList<>();
+                    Queue<pair> q=new ArrayDeque<>();
                     pair p=new pair(i,j);
         q.add(p);
         while(!q.isEmpty()){
