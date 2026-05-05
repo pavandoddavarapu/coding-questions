@@ -8,8 +8,6 @@ class Solution {
             }
         }
     public int numIslands(char[][] grid) {
-        
-        boolean vis[][]=new boolean[grid.length][grid[0].length];
         int count=0;
         for(int i=0;i<grid.length;i++){
             for(int j=0;j<grid[0].length;j++){
@@ -18,7 +16,6 @@ class Solution {
                     Queue<pair> q=new LinkedList<>();
                     pair p=new pair(i,j);
         q.add(p);
-        vis[p.i][p.j]=true;
         while(!q.isEmpty()){
             pair p1=q.poll();
             if(p1.i-1>=0  && grid[p1.i-1][p1.j]=='1'){grid[p1.i-1][p1.j]=2;q.add(new pair(p1.i-1,p1.j));}
