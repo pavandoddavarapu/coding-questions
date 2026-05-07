@@ -1,32 +1,47 @@
 class Solution {
     class pair{
-        int a;
-        int b;
+        int i;
+        int j;
         int level;
-        pair(int a,int b,int level){this.a=a;this.b=b;this.level=level;}
-
+        pair(int i,int j,int level){
+            this.i=i;
+            this.j=j;
+            this.level=level;
+        }
     }
     public int[][] updateMatrix(int[][] mat) {
-        Queue<pair> q=new LinkedList<>();
+        
         boolean visited[][]=new boolean[mat.length][mat[0].length];
+        Queue<pair> q=new LinkedList<>();
         for(int i=0;i<mat.length;i++){
             for(int j=0;j<mat[0].length;j++){
-                if(mat[i][j]==0){q.add(new pair(i,j,0));visited[i][j]=true;}
+                if(mat[i][j]==0){
+                    q.add(new pair(i,j,0));
+                    visited[i][j]=true;
+                }
             }
         }
-        int ans[][]=new int[mat.length][mat[0].length];
+        bfs(mat,visited,q);
+        return mat;
+        
+    }
+    public void bfs(int[][] mat,boolean visited[][],Queue<pair> q){
         while(!q.isEmpty()){
             pair p=q.poll();
-            int i=p.a;
-            int j=p.b;
-            int level=p.level;
-            ans[i][j]=level;
-            if(i-1>=0 && !visited[i-1][j]){q.add(new pair(i-1,j,level+1));visited[i-1][j]=true;}
-            if(j-1>=0 && !visited[i][j-1]){q.add(new pair(i,j-1,level+1));visited[i][j-1]=true;}
-            if(i+1<mat.length && !visited[i+1][j]){q.add(new pair(i+1,j,level+1));visited[i+1][j]=true;}
-            if(j+1<mat[0].length && !visited[i][j+1]){q.add(new pair(i,j+1,level+1));visited[i][j+1]=true;}
-
+            int pi=p.i;
+            int pj=p.j;
+            int pl=p.level;
+            int ier[]={-1,1,0,0};
+            int jer[]={0,0,-1,1};
+            mat[pi][pj]=pl;
+            for(int i=0;i<4;i++){
+                int row=pi+ier[i];
+                int col=pj+jer[i];
+                if(row>=0 && row<mat.length && col>=0 && col<mat[0].length && visited[row][col]==false){
+                    q.add(new pair(row,col,pl+1));visited[row][col]=true;
+                }
+            }
         }
-        return ans;
+
     }
 }
