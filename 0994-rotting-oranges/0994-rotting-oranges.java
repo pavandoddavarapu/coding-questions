@@ -19,6 +19,8 @@ class Solution {
             }
         }
         int maxi=0;
+        int m=grid.length;
+        int n=grid[0].length;
         while(!q.isEmpty()){
 
             pair p=q.poll();
@@ -27,7 +29,7 @@ class Solution {
             for(int k=0;k<4;k++){
                 int i=p.i+iers[k];
                 int j=p.j+jers[k];
-                if(i>=0 && i<grid.length && j>=0 && j<grid[0].length && grid[i][j]==1){grid[i][j]=2;q.add(new pair(i,j,p.l+1));ones--;}
+                if(i>=0 && i<m && j>=0 && j<n && grid[i][j]==1){grid[i][j]=2;q.add(new pair(i,j,p.l+1));ones--;}
             }
             maxi=Math.max(maxi,p.l);
         }
