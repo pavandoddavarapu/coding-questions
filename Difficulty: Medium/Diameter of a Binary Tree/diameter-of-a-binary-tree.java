@@ -1,28 +1,29 @@
 /*
+Definition for Node
 class Node {
     int data;
     Node left;
     Node right;
     Node(int data) {
         this.data = data;
-        left = null;
-        right = null;
+        left = right = null;
     }
 } */
 
 class Solution {
-    int maxDia=0;
+    int maxAs=0;
+    
     public int diameter(Node root) {
         // code here
         helper(root);
-        return maxDia;
+        return maxAs;
+        
     }
     public int helper(Node root){
         if(root==null)return 0;
-        int leftDia=helper(root.left);
-        int rightDia=helper(root.right);
-        int localDia=leftDia+rightDia;
-        if(localDia>maxDia)maxDia=localDia;
-        return Math.max(rightDia,leftDia)+1;
+        int left=helper(root.left);
+        int right=helper(root.right);
+        maxAs=Math.max(maxAs,left+right);
+        return Math.max(left,right)+1;
     }
 }
