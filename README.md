@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/pavandoddavarapu/coding-questions/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/pavandoddavarapu/coding-questions/tree/main/0735-asteroid-collision/) | Medium |
 | [0994-rotting-oranges](https://github.com/pavandoddavarapu/coding-questions/tree/main/0994-rotting-oranges/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/pavandoddavarapu/coding-questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1020-number-of-enclaves](https://github.com/pavandoddavarapu/coding-questions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pavandoddavarapu/coding-questions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/pavandoddavarapu/coding-questions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704-binary-search](https://github.com/pavandoddavarapu/coding-questions/tree/main/0704-binary-search/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/pavandoddavarapu/coding-questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pavandoddavarapu/coding-questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -221,9 +223,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/pavandoddavarapu/coding-questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pavandoddavarapu/coding-questions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/pavandoddavarapu/coding-questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pavandoddavarapu/coding-questions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 <!---LeetCode Topics End-->
