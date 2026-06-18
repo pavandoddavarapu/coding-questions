@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/pavandoddavarapu/coding-questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0071-simplify-path](https://github.com/pavandoddavarapu/coding-questions/tree/main/0071-simplify-path/) | Medium |
 | [0402-remove-k-digits](https://github.com/pavandoddavarapu/coding-questions/tree/main/0402-remove-k-digits/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/pavandoddavarapu/coding-questions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/pavandoddavarapu/coding-questions/tree/main/0146-lru-cache/) | Medium |
 | [0264-ugly-number-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/pavandoddavarapu/coding-questions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/pavandoddavarapu/coding-questions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0904-fruit-into-baskets](https://github.com/pavandoddavarapu/coding-questions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/pavandoddavarapu/coding-questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/pavandoddavarapu/coding-questions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pavandoddavarapu/coding-questions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
