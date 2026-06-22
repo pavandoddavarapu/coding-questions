@@ -1,23 +1,23 @@
 class Solution {
     public int maxNumberOfBalloons(String text) {
-        HashMap<Character,Integer> hm=new HashMap<>();
+        int arr[]=new int[26];
+        Arrays.fill(arr,-1);
         for(int i=0;i<text.length();i++){
-            Character c=text.charAt(i);
-            hm.put(c,hm.getOrDefault(c,0)+1);
+            char c=text.charAt(i);
+            if(c=='b' || c=='a' || c=='l' || c=='o' || c=='n'){
+            if(arr[c-'a']==-1)arr[c-'a']=0;
+            int a=text.charAt(i)-'a';
+            arr[a]++;}
         }
-        int count=0;
-        while(true){
-            String st="balloon";
-            for(int i=0;i<st.length();i++){
-                Character c=st.charAt(i);
-                if(hm.containsKey(c)){
-                    if(hm.get(c)==1){hm.remove(c);}
-                    else{hm.put(c,hm.get(c)-1);}
-                }
-                else{return count;}
-            }
-            count++;
+        arr['l'-'a']=arr['l'-'a']/2;
+        arr['o'-'a']=arr['o'-'a']/2;
+        int ans=Integer.MAX_VALUE;
+        for(int i=0;i<26;i++){
+            if(arr[i]!=-1)ans=Math.min(ans,arr[i]);
+            else if(i=='b'-'a' || i=='a'-'a' || i=='l'-'a' || i=='o'-'a' || i=='n'-'a')return 0;
+            
         }
-        
+        if(ans==Integer.MAX_VALUE)return 0;
+        return ans;
     }
 }
