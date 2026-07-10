@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0377-combination-sum-iv](https://github.com/pavandoddavarapu/coding-questions/tree/main/0377-combination-sum-iv/) | Medium |
 | [0463-island-perimeter](https://github.com/pavandoddavarapu/coding-questions/tree/main/0463-island-perimeter/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0542-01-matrix](https://github.com/pavandoddavarapu/coding-questions/tree/main/0542-01-matrix/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/pavandoddavarapu/coding-questions/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/pavandoddavarapu/coding-questions/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/pavandoddavarapu/coding-questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
