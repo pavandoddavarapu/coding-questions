@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/pavandoddavarapu/coding-questions/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/pavandoddavarapu/coding-questions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/pavandoddavarapu/coding-questions/tree/main/0739-daily-temperatures/) | Medium |
+| [0846-hand-of-straights](https://github.com/pavandoddavarapu/coding-questions/tree/main/0846-hand-of-straights/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/pavandoddavarapu/coding-questions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0994-rotting-oranges](https://github.com/pavandoddavarapu/coding-questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/pavandoddavarapu/coding-questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/pavandoddavarapu/coding-questions/tree/main/0402-remove-k-digits/) | Medium |
+| [0846-hand-of-straights](https://github.com/pavandoddavarapu/coding-questions/tree/main/0846-hand-of-straights/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/pavandoddavarapu/coding-questions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pavandoddavarapu/coding-questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Stack
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/pavandoddavarapu/coding-questions/tree/main/0146-lru-cache/) | Medium |
 | [0264-ugly-number-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/pavandoddavarapu/coding-questions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0846-hand-of-straights](https://github.com/pavandoddavarapu/coding-questions/tree/main/0846-hand-of-straights/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/pavandoddavarapu/coding-questions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/pavandoddavarapu/coding-questions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pavandoddavarapu/coding-questions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -156,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/pavandoddavarapu/coding-questions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0846-hand-of-straights](https://github.com/pavandoddavarapu/coding-questions/tree/main/0846-hand-of-straights/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
