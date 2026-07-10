@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavandoddavarapu/coding-questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0130-surrounded-regions](https://github.com/pavandoddavarapu/coding-questions/tree/main/0130-surrounded-regions/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0200-number-of-islands](https://github.com/pavandoddavarapu/coding-questions/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0377-combination-sum-iv](https://github.com/pavandoddavarapu/coding-questions/tree/main/0377-combination-sum-iv/) | Medium |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/pavandoddavarapu/coding-questions/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/pavandoddavarapu/coding-questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
