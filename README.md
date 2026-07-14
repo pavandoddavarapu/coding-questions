@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/pavandoddavarapu/coding-questions/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/pavandoddavarapu/coding-questions/tree/main/0176-second-highest-salary/) | Medium |
+| [0177-nth-highest-salary](https://github.com/pavandoddavarapu/coding-questions/tree/main/0177-nth-highest-salary/) | Medium |
 | [1757-recyclable-and-low-fat-products](https://github.com/pavandoddavarapu/coding-questions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/pavandoddavarapu/coding-questions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Greedy
