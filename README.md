@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/pavandoddavarapu/coding-questions/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/pavandoddavarapu/coding-questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0079-word-search](https://github.com/pavandoddavarapu/coding-questions/tree/main/0079-word-search/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavandoddavarapu/coding-questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0130-surrounded-regions](https://github.com/pavandoddavarapu/coding-questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/pavandoddavarapu/coding-questions/tree/main/0079-word-search/) | Medium |
 | [0101-symmetric-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/pavandoddavarapu/coding-questions/tree/main/0112-path-sum/) | Easy |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/pavandoddavarapu/coding-questions/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/pavandoddavarapu/coding-questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/pavandoddavarapu/coding-questions/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/pavandoddavarapu/coding-questions/tree/main/0463-island-perimeter/) | Easy |
@@ -119,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/pavandoddavarapu/coding-questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0071-simplify-path](https://github.com/pavandoddavarapu/coding-questions/tree/main/0071-simplify-path/) | Medium |
+| [0079-word-search](https://github.com/pavandoddavarapu/coding-questions/tree/main/0079-word-search/) | Medium |
 | [0402-remove-k-digits](https://github.com/pavandoddavarapu/coding-questions/tree/main/0402-remove-k-digits/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/pavandoddavarapu/coding-questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/pavandoddavarapu/coding-questions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -286,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/pavandoddavarapu/coding-questions/tree/main/0079-word-search/) | Medium |
 | [0113-path-sum-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/0113-path-sum-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
