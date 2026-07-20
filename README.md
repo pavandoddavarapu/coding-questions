@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/pavandoddavarapu/coding-questions/tree/main/0012-integer-to-roman/) | Medium |
 | [0014-longest-common-prefix](https://github.com/pavandoddavarapu/coding-questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0071-simplify-path](https://github.com/pavandoddavarapu/coding-questions/tree/main/0071-simplify-path/) | Medium |
 | [0079-word-search](https://github.com/pavandoddavarapu/coding-questions/tree/main/0079-word-search/) | Medium |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/pavandoddavarapu/coding-questions/tree/main/0001-two-sum/) | Easy |
+| [0012-integer-to-roman](https://github.com/pavandoddavarapu/coding-questions/tree/main/0012-integer-to-roman/) | Medium |
 | [0146-lru-cache](https://github.com/pavandoddavarapu/coding-questions/tree/main/0146-lru-cache/) | Medium |
 | [0264-ugly-number-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/pavandoddavarapu/coding-questions/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/pavandoddavarapu/coding-questions/tree/main/0002-add-two-numbers/) | Medium |
+| [0012-integer-to-roman](https://github.com/pavandoddavarapu/coding-questions/tree/main/0012-integer-to-roman/) | Medium |
 | [0264-ugly-number-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/0264-ugly-number-ii/) | Medium |
 | [1622-fancy-sequence](https://github.com/pavandoddavarapu/coding-questions/tree/main/1622-fancy-sequence/) | Hard |
 ## Recursion
