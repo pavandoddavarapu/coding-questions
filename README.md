@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pavandoddavarapu/coding-questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0071-simplify-path](https://github.com/pavandoddavarapu/coding-questions/tree/main/0071-simplify-path/) | Medium |
 | [0079-word-search](https://github.com/pavandoddavarapu/coding-questions/tree/main/0079-word-search/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/pavandoddavarapu/coding-questions/tree/main/0402-remove-k-digits/) | Medium |
 | [0686-repeated-string-match](https://github.com/pavandoddavarapu/coding-questions/tree/main/0686-repeated-string-match/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/pavandoddavarapu/coding-questions/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/pavandoddavarapu/coding-questions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/pavandoddavarapu/coding-questions/tree/main/0016-3sum-closest/) | Medium |
 | [0143-reorder-list](https://github.com/pavandoddavarapu/coding-questions/tree/main/0143-reorder-list/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pavandoddavarapu/coding-questions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/pavandoddavarapu/coding-questions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
