@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/pavandoddavarapu/coding-questions/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/pavandoddavarapu/coding-questions/tree/main/0012-integer-to-roman/) | Medium |
 | [0264-ugly-number-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/0264-ugly-number-ii/) | Medium |
+| [0319-bulb-switcher](https://github.com/pavandoddavarapu/coding-questions/tree/main/0319-bulb-switcher/) | Medium |
 | [1622-fancy-sequence](https://github.com/pavandoddavarapu/coding-questions/tree/main/1622-fancy-sequence/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -343,4 +344,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1859-sorting-the-sentence](https://github.com/pavandoddavarapu/coding-questions/tree/main/1859-sorting-the-sentence/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/pavandoddavarapu/coding-questions/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
