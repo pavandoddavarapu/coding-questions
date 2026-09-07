@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pavandoddavarapu/coding-questions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/pavandoddavarapu/coding-questions/tree/main/1859-sorting-the-sentence/) | Easy |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/pavandoddavarapu/coding-questions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pavandoddavarapu/coding-questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0079-word-search](https://github.com/pavandoddavarapu/coding-questions/tree/main/0079-word-search/) | Medium |
 | [0113-path-sum-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/0113-path-sum-ii/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/pavandoddavarapu/coding-questions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -368,4 +370,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pavandoddavarapu/coding-questions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/pavandoddavarapu/coding-questions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 <!---LeetCode Topics End-->
