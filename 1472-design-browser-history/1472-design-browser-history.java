@@ -14,12 +14,7 @@ class BrowserHistory {
     
     public void visit(String url) {
         Node n=new Node(url);
-        {
-            if(head.next!=null){
-                Node h=head.next;
-                h.prev=null;
-            }
-        }
+        
         if(head!=null){
         head.next=n;
         n.prev=head;
