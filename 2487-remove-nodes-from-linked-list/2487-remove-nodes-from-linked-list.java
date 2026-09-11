@@ -17,7 +17,7 @@ class Solution {
         while(h1!=null){
             if(h1.val<ans){prev.next=h1.next;h1=h1.next;}
             else{
-                System.out.print(ans);
+                
                 ans=h1.val;
                 prev=h1;
                 h1=h1.next;
