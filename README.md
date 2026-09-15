@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pavandoddavarapu/coding-questions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/pavandoddavarapu/coding-questions/tree/main/0112-path-sum/) | Easy |
+| [0127-word-ladder](https://github.com/pavandoddavarapu/coding-questions/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/pavandoddavarapu/coding-questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/pavandoddavarapu/coding-questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/pavandoddavarapu/coding-questions/tree/main/0200-number-of-islands/) | Medium |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pavandoddavarapu/coding-questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0071-simplify-path](https://github.com/pavandoddavarapu/coding-questions/tree/main/0071-simplify-path/) | Medium |
 | [0079-word-search](https://github.com/pavandoddavarapu/coding-questions/tree/main/0079-word-search/) | Medium |
+| [0127-word-ladder](https://github.com/pavandoddavarapu/coding-questions/tree/main/0127-word-ladder/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/pavandoddavarapu/coding-questions/tree/main/0179-largest-number/) | Medium |
 | [0402-remove-k-digits](https://github.com/pavandoddavarapu/coding-questions/tree/main/0402-remove-k-digits/) | Medium |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/pavandoddavarapu/coding-questions/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/pavandoddavarapu/coding-questions/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pavandoddavarapu/coding-questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0127-word-ladder](https://github.com/pavandoddavarapu/coding-questions/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/pavandoddavarapu/coding-questions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0146-lru-cache](https://github.com/pavandoddavarapu/coding-questions/tree/main/0146-lru-cache/) | Medium |
 | [0264-ugly-number-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/0264-ugly-number-ii/) | Medium |
@@ -402,4 +405,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/pavandoddavarapu/coding-questions/tree/main/1472-design-browser-history/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/pavandoddavarapu/coding-questions/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
