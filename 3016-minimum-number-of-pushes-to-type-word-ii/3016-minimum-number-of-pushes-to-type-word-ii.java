@@ -31,7 +31,7 @@ class Solution {
                 count=count+(m*4);
                 k++;
             }
-            System.out.print(count+",");
+
         }
         return count;
     }
