@@ -35,7 +35,7 @@ class Solution {
         int c=l.count+r.count+1;
         int s=l.val+r.val+root.val;
         int k=s/c;
-        if(k==root.val){ans=ans+1;System.out.println(root.val+" "+s+" "+c);}
+        if(k==root.val){ans=ans+1;}
         return new pair(c,s);
     }
 }
