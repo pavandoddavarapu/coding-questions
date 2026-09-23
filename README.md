@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-number-of-enclaves](https://github.com/pavandoddavarapu/coding-questions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pavandoddavarapu/coding-questions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-number-of-enclaves](https://github.com/pavandoddavarapu/coding-questions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/pavandoddavarapu/coding-questions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/pavandoddavarapu/coding-questions/tree/main/1765-map-of-highest-peak/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -349,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pavandoddavarapu/coding-questions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -364,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pavandoddavarapu/coding-questions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
