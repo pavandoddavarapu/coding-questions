@@ -8,14 +8,8 @@ class Solution {
             if(c=='('){st.add(i);}
             if(c==')'){
                 int a=st.pop();
-                String s1=s.substring(0,a);
-                String s2=s.substring(a+1,i);
-                String s3=s.substring(i+1,s.length());
-               
-                s=new StringBuilder();
-                s.append(s1);
-                s.append(new StringBuilder(s2).reverse().toString());
-                s.append(s3);
+                String reversedPart = new StringBuilder(s.substring(a + 1, i)).reverse().toString();
+                s.replace(a , i+1, reversedPart);
                 i=i-2;
             }
             i++;
