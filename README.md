@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/pavandoddavarapu/coding-questions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/pavandoddavarapu/coding-questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0846-hand-of-straights](https://github.com/pavandoddavarapu/coding-questions/tree/main/0846-hand-of-straights/) | Medium |
+| [0877-stone-game](https://github.com/pavandoddavarapu/coding-questions/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/pavandoddavarapu/coding-questions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0994-rotting-oranges](https://github.com/pavandoddavarapu/coding-questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/pavandoddavarapu/coding-questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0319-bulb-switcher](https://github.com/pavandoddavarapu/coding-questions/tree/main/0319-bulb-switcher/) | Medium |
 | [0754-reach-a-number](https://github.com/pavandoddavarapu/coding-questions/tree/main/0754-reach-a-number/) | Medium |
+| [0877-stone-game](https://github.com/pavandoddavarapu/coding-questions/tree/main/0877-stone-game/) | Medium |
 | [1622-fancy-sequence](https://github.com/pavandoddavarapu/coding-questions/tree/main/1622-fancy-sequence/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -332,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0377-combination-sum-iv](https://github.com/pavandoddavarapu/coding-questions/tree/main/0377-combination-sum-iv/) | Medium |
 | [0542-01-matrix](https://github.com/pavandoddavarapu/coding-questions/tree/main/0542-01-matrix/) | Medium |
+| [0877-stone-game](https://github.com/pavandoddavarapu/coding-questions/tree/main/0877-stone-game/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -447,4 +450,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pavandoddavarapu/coding-questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/pavandoddavarapu/coding-questions/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/pavandoddavarapu/coding-questions/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/pavandoddavarapu/coding-questions/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
