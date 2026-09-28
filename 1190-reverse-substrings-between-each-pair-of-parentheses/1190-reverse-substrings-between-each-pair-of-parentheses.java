@@ -11,10 +11,7 @@ class Solution {
                 String s1=s.substring(0,a);
                 String s2=s.substring(a+1,i);
                 String s3=s.substring(i+1,s.length());
-                System.out.print(s1+"");
-                System.out.print(s2+"");
-                System.out.print(s3);
-                System.out.println();
+               
                 s=new StringBuilder();
                 s.append(s1);
                 s.append(new StringBuilder(s2).reverse().toString());
