@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/pavandoddavarapu/coding-questions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/0113-path-sum-ii/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/pavandoddavarapu/coding-questions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pavandoddavarapu/coding-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/pavandoddavarapu/coding-questions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0130-surrounded-regions](https://github.com/pavandoddavarapu/coding-questions/tree/main/0130-surrounded-regions/) | Medium |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/pavandoddavarapu/coding-questions/tree/main/0112-path-sum/) | Easy |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/pavandoddavarapu/coding-questions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0127-word-ladder](https://github.com/pavandoddavarapu/coding-questions/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/pavandoddavarapu/coding-questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/pavandoddavarapu/coding-questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -215,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/pavandoddavarapu/coding-questions/tree/main/0002-add-two-numbers/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/pavandoddavarapu/coding-questions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0143-reorder-list](https://github.com/pavandoddavarapu/coding-questions/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/pavandoddavarapu/coding-questions/tree/main/0146-lru-cache/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/pavandoddavarapu/coding-questions/tree/main/0328-odd-even-linked-list/) | Medium |
@@ -355,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/pavandoddavarapu/coding-questions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/0113-path-sum-ii/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/pavandoddavarapu/coding-questions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pavandoddavarapu/coding-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/pavandoddavarapu/coding-questions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/pavandoddavarapu/coding-questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -374,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/pavandoddavarapu/coding-questions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/0113-path-sum-ii/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/pavandoddavarapu/coding-questions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pavandoddavarapu/coding-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/pavandoddavarapu/coding-questions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/pavandoddavarapu/coding-questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
