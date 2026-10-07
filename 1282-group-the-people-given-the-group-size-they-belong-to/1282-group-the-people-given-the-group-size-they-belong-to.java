@@ -9,14 +9,7 @@ class Solution {
             }
             hm.get(a).add(i);
             if(hm.get(a).size()==a){
-                 ArrayList<Integer> arr=hm.get(a);
-                List<Integer> ls=new ArrayList<>();
-                for(int ak:arr){
-                ls.add(ak);
-                
-            }
-            ans.add(ls);
-            arr.clear();
+                ans.add(hm.remove(a));
             }
         }
         
