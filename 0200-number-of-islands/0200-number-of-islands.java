@@ -14,22 +14,15 @@ class Solution {
     }
     public void helper(char[][] grid,int x,int y,boolean vis[][]){
         vis[x][y]=true;
-        Queue<int[]>q=new LinkedList<>();
-        q.add(new int[]{x,y});
-        int count=0;
-        while(!q.isEmpty()){
-            
-            int as[]=q.poll();
-            int is[]={-1,0,1,0};
-            int js[]={0,1,0,-1};
-            for(int i=0;i<4;i++){
-                int k=is[i]+as[0];
-                int l=js[i]+as[1];
+        int is[]={-1,0,1,0};
+        int js[]={0,1,0,-1};
+        for(int i=0;i<4;i++){
+                int k=is[i]+x;
+                int l=js[i]+y;
                 if(k>=0 && k<grid.length && l>=0 && l<grid[0].length && grid[k][l]=='1' && vis[k][l]==false){
-                    q.add(new int[]{k,l});
+                    helper(grid,k,l,vis);
                     vis[k][l]=true;
                 }
-            }
         }
         
     }
