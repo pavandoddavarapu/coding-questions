@@ -1,6 +1,7 @@
 class Solution {
     public boolean validPath(int n, int[][] edges, int source, int destination) {
         ArrayList<ArrayList<Integer>> arr=new ArrayList<>();
+        if(source==destination)return true;
         for(int i=0;i<n;i++){arr.add(new ArrayList<>());}
         for(int[] a:edges){
             int u=a[0];
@@ -15,15 +16,17 @@ class Solution {
     }
     boolean ass=false;
     public boolean helper(int[][] edges, int s, int d,boolean vis[],ArrayList<ArrayList<Integer>> arr){
-        if(s==d){return true;}
-        vis[s]=true;
         
-        for(int i=0;i<arr.get(s).size();i++){
-            int a=arr.get(s).get(i);
-            if(vis[a]==false && ass==false && helper(edges,a,d,vis,arr)){
-                return true;
+        Queue<Integer> q=new LinkedList<>();
+        q.add(s);
+        vis[s]=true;
+        while(!q.isEmpty()){
+            int a=q.poll();
+            for(int i=0;i<arr.get(a).size();i++){
+                int b=arr.get(a).get(i);
+                if(vis[b]==false){q.add(b);vis[b]=true;}
+                if(b==d)return true;
             }
-            
         }
         return false;
     }
