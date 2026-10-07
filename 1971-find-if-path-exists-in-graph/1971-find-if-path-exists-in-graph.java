@@ -10,19 +10,20 @@ class Solution {
         } 
 
         boolean vis[]=new boolean[n];
-        helper(edges,source,destination,vis,arr);
-        return ass;
+        return helper(edges,source,destination,vis,arr);
+        
     }
     boolean ass=false;
     public boolean helper(int[][] edges, int s, int d,boolean vis[],ArrayList<ArrayList<Integer>> arr){
-        if(s==d){ass=true;return true;}
+        if(s==d){return true;}
         vis[s]=true;
         
         for(int i=0;i<arr.get(s).size();i++){
             int a=arr.get(s).get(i);
-            if(vis[a]==false && ass==false){
-                helper(edges,a,d,vis,arr);
+            if(vis[a]==false && ass==false && helper(edges,a,d,vis,arr)){
+                return true;
             }
+            
         }
         return false;
     }
