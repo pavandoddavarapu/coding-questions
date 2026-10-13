@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2785-sort-vowels-in-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/pavandoddavarapu/coding-questions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+| [3227-vowels-game-in-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0754-reach-a-number](https://github.com/pavandoddavarapu/coding-questions/tree/main/0754-reach-a-number/) | Medium |
 | [0877-stone-game](https://github.com/pavandoddavarapu/coding-questions/tree/main/0877-stone-game/) | Medium |
 | [1622-fancy-sequence](https://github.com/pavandoddavarapu/coding-questions/tree/main/1622-fancy-sequence/) | Hard |
+| [3227-vowels-game-in-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -452,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0319-bulb-switcher](https://github.com/pavandoddavarapu/coding-questions/tree/main/0319-bulb-switcher/) | Medium |
+| [3227-vowels-game-in-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -479,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/pavandoddavarapu/coding-questions/tree/main/0877-stone-game/) | Medium |
+| [3227-vowels-game-in-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
