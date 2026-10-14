@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0846-hand-of-straights](https://github.com/pavandoddavarapu/coding-questions/tree/main/0846-hand-of-straights/) | Medium |
 | [0877-stone-game](https://github.com/pavandoddavarapu/coding-questions/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/pavandoddavarapu/coding-questions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/pavandoddavarapu/coding-questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/pavandoddavarapu/coding-questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/pavandoddavarapu/coding-questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pavandoddavarapu/coding-questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/pavandoddavarapu/coding-questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0846-hand-of-straights](https://github.com/pavandoddavarapu/coding-questions/tree/main/0846-hand-of-straights/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/pavandoddavarapu/coding-questions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/pavandoddavarapu/coding-questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/pavandoddavarapu/coding-questions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/pavandoddavarapu/coding-questions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pavandoddavarapu/coding-questions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -423,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/pavandoddavarapu/coding-questions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/pavandoddavarapu/coding-questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/pavandoddavarapu/coding-questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pavandoddavarapu/coding-questions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pavandoddavarapu/coding-questions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -431,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/pavandoddavarapu/coding-questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/pavandoddavarapu/coding-questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pavandoddavarapu/coding-questions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/pavandoddavarapu/coding-questions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
