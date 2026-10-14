@@ -3,10 +3,10 @@ class Solution {
         int count=0;
         char[] c=s.toCharArray();
         for(char ch: c){
-            if(ch=='a' || ch=='e'||ch=='i'||ch=='o' || ch=='u')count++;
+            if(ch=='a' || ch=='e'||ch=='i'||ch=='o' || ch=='u')return true;
         }
-        if(count>=1)return true;
-        else return false;
+        
+        return false;
 
 
     }
