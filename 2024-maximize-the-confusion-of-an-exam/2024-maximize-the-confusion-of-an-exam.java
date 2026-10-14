@@ -1,13 +1,14 @@
 class Solution {
     public int maxConsecutiveAnswers(String answerKey, int k) {
         int left=0;
-        char[] c=answerKey.toCharArray();
+        
         Queue<Integer> q=new LinkedList<>();
         int right=0;
         int ans=0;
         int kk=k;
         while(right<answerKey.length()){
-            if(c[right]=='T'){
+            char c=answerKey.charAt(right);
+            if(c=='T'){
                 right++;
                 ans=Math.max(ans,right-left);
             }
@@ -30,7 +31,8 @@ class Solution {
         q.clear();
         left=0;right=0;
         while(right<answerKey.length()){
-            if(c[right]=='F'){
+            char c=answerKey.charAt(right);
+            if(c=='F'){
                 right++;
                 ans=Math.max(ans,right-left);
             }
