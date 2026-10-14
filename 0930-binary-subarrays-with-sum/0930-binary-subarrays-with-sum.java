@@ -1,0 +1,15 @@
+class Solution {
+    public int numSubarraysWithSum(int[] nums, int goal) {
+        int count=0;
+        for(int i=0;i<nums.length;i++){
+            int curr=0;
+            for(int j=i;j<nums.length;j++){
+                curr=curr+nums[j];
+                if(curr==goal)count++;
+                if(curr>goal)break;
+            }
+            count=count++;
+        }
+        return count;
+    }
+}
