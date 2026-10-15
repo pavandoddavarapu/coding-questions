@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1091-shortest-path-in-binary-matrix](https://github.com/pavandoddavarapu/coding-questions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/pavandoddavarapu/coding-questions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pavandoddavarapu/coding-questions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1329-sort-the-matrix-diagonally](https://github.com/pavandoddavarapu/coding-questions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/pavandoddavarapu/coding-questions/tree/main/1333-filter-restaurants-by-vegan-friendly-price-and-distance/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pavandoddavarapu/coding-questions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pavandoddavarapu/coding-questions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/pavandoddavarapu/coding-questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/pavandoddavarapu/coding-questions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/pavandoddavarapu/coding-questions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1329-sort-the-matrix-diagonally](https://github.com/pavandoddavarapu/coding-questions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/pavandoddavarapu/coding-questions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/pavandoddavarapu/coding-questions/tree/main/1765-map-of-highest-peak/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/pavandoddavarapu/coding-questions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/pavandoddavarapu/coding-questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0846-hand-of-straights](https://github.com/pavandoddavarapu/coding-questions/tree/main/0846-hand-of-straights/) | Medium |
+| [1329-sort-the-matrix-diagonally](https://github.com/pavandoddavarapu/coding-questions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/pavandoddavarapu/coding-questions/tree/main/1333-filter-restaurants-by-vegan-friendly-price-and-distance/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pavandoddavarapu/coding-questions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pavandoddavarapu/coding-questions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
