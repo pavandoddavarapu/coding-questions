@@ -1,9 +1,12 @@
 class Solution {
     public int minSteps(String s, String t) {
         int[] arr=new int[26];
-        for(int i=0;i<s.length();i++){
-            arr[s.charAt(i)-'a']++;
-            arr[t.charAt(i)-'a']--;
+        for(char a:s.toCharArray()){
+             arr[a-'a']++;
+        }
+        for(int a: t.toCharArray()){
+           
+            arr[a-'a']--;
         }
         int count=0;
         for(int a:arr){
