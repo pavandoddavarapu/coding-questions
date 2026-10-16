@@ -10,11 +10,12 @@
  */
 class Solution {
     public ListNode modifiedList(int[] nums, ListNode head) {
-        HashSet<Integer> hs=new HashSet<>();
-        for(int a:nums)hs.add(a);
+        int arr[]=new int[1000000+1];
+
+        for(int a:nums)arr[a]=1;
         ListNode temp=head;
         while(temp!=null && temp.next!=null){
-            if(hs.contains(temp.next.val)){
+            if(arr[temp.next.val]!=0){
                 ListNode t=temp.next;
                 temp.next=temp.next.next;
                 t.next=null;}
@@ -22,7 +23,7 @@ class Solution {
                 temp=temp.next;
             }
         }
-        if(head!=null){if(hs.contains(head.val))head=head.next;}
+        if(head!=null){if(arr[head.val]!=0)head=head.next;}
         return head;
     }
 }
