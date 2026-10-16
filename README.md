@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1472-design-browser-history](https://github.com/pavandoddavarapu/coding-questions/tree/main/1472-design-browser-history/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/pavandoddavarapu/coding-questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/pavandoddavarapu/coding-questions/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/pavandoddavarapu/coding-questions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3227-vowels-game-in-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/3227-vowels-game-in-a-string/) | Medium |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/pavandoddavarapu/coding-questions/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -473,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/pavandoddavarapu/coding-questions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pavandoddavarapu/coding-questions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/pavandoddavarapu/coding-questions/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
