@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2785-sort-vowels-in-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/pavandoddavarapu/coding-questions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+| [3223-minimum-length-of-string-after-operations](https://github.com/pavandoddavarapu/coding-questions/tree/main/3223-minimum-length-of-string-after-operations/) | Medium |
 | [3227-vowels-game-in-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/pavandoddavarapu/coding-questions/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Monotonic Stack
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/pavandoddavarapu/coding-questions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [3223-minimum-length-of-string-after-operations](https://github.com/pavandoddavarapu/coding-questions/tree/main/3223-minimum-length-of-string-after-operations/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -483,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/pavandoddavarapu/coding-questions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pavandoddavarapu/coding-questions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3223-minimum-length-of-string-after-operations](https://github.com/pavandoddavarapu/coding-questions/tree/main/3223-minimum-length-of-string-after-operations/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/pavandoddavarapu/coding-questions/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
