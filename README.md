@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/pavandoddavarapu/coding-questions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/pavandoddavarapu/coding-questions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/pavandoddavarapu/coding-questions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/pavandoddavarapu/coding-questions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/pavandoddavarapu/coding-questions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Depth-First Search
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/pavandoddavarapu/coding-questions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/pavandoddavarapu/coding-questions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/pavandoddavarapu/coding-questions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pavandoddavarapu/coding-questions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/pavandoddavarapu/coding-questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
