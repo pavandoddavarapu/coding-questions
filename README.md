@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pavandoddavarapu/coding-questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/pavandoddavarapu/coding-questions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/pavandoddavarapu/coding-questions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/pavandoddavarapu/coding-questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/pavandoddavarapu/coding-questions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pavandoddavarapu/coding-questions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/pavandoddavarapu/coding-questions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/pavandoddavarapu/coding-questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/pavandoddavarapu/coding-questions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/pavandoddavarapu/coding-questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/pavandoddavarapu/coding-questions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/pavandoddavarapu/coding-questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/pavandoddavarapu/coding-questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/pavandoddavarapu/coding-questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/pavandoddavarapu/coding-questions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/pavandoddavarapu/coding-questions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/pavandoddavarapu/coding-questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/pavandoddavarapu/coding-questions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/pavandoddavarapu/coding-questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/pavandoddavarapu/coding-questions/tree/main/1765-map-of-highest-peak/) | Medium |
@@ -134,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/pavandoddavarapu/coding-questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/pavandoddavarapu/coding-questions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/pavandoddavarapu/coding-questions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/pavandoddavarapu/coding-questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/pavandoddavarapu/coding-questions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/pavandoddavarapu/coding-questions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/pavandoddavarapu/coding-questions/tree/main/1765-map-of-highest-peak/) | Medium |
@@ -360,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/pavandoddavarapu/coding-questions/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/pavandoddavarapu/coding-questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/pavandoddavarapu/coding-questions/tree/main/1020-number-of-enclaves/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/pavandoddavarapu/coding-questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/pavandoddavarapu/coding-questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pavandoddavarapu/coding-questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
@@ -482,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/pavandoddavarapu/coding-questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/pavandoddavarapu/coding-questions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/pavandoddavarapu/coding-questions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/pavandoddavarapu/coding-questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/pavandoddavarapu/coding-questions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pavandoddavarapu/coding-questions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/pavandoddavarapu/coding-questions/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
