@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3527-find-the-most-common-response](https://github.com/pavandoddavarapu/coding-questions/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/pavandoddavarapu/coding-questions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3895-count-digit-appearances](https://github.com/pavandoddavarapu/coding-questions/tree/main/3895-count-digit-appearances/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/pavandoddavarapu/coding-questions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -335,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1622-fancy-sequence](https://github.com/pavandoddavarapu/coding-questions/tree/main/1622-fancy-sequence/) | Hard |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pavandoddavarapu/coding-questions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3227-vowels-game-in-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/3227-vowels-game-in-a-string/) | Medium |
+| [3895-count-digit-appearances](https://github.com/pavandoddavarapu/coding-questions/tree/main/3895-count-digit-appearances/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
