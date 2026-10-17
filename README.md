@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pavandoddavarapu/coding-questions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/pavandoddavarapu/coding-questions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/pavandoddavarapu/coding-questions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/pavandoddavarapu/coding-questions/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3527-find-the-most-common-response](https://github.com/pavandoddavarapu/coding-questions/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/pavandoddavarapu/coding-questions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -533,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/pavandoddavarapu/coding-questions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/pavandoddavarapu/coding-questions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/pavandoddavarapu/coding-questions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/pavandoddavarapu/coding-questions/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/pavandoddavarapu/coding-questions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
