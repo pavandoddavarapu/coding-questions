@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/pavandoddavarapu/coding-questions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/pavandoddavarapu/coding-questions/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pavandoddavarapu/coding-questions/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/pavandoddavarapu/coding-questions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/pavandoddavarapu/coding-questions/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/pavandoddavarapu/coding-questions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/pavandoddavarapu/coding-questions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/pavandoddavarapu/coding-questions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pavandoddavarapu/coding-questions/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pavandoddavarapu/coding-questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Stack
@@ -371,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pavandoddavarapu/coding-questions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/pavandoddavarapu/coding-questions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/pavandoddavarapu/coding-questions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pavandoddavarapu/coding-questions/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pavandoddavarapu/coding-questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
