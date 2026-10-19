@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1472-design-browser-history](https://github.com/pavandoddavarapu/coding-questions/tree/main/1472-design-browser-history/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pavandoddavarapu/coding-questions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/pavandoddavarapu/coding-questions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1552-magnetic-force-between-two-balls](https://github.com/pavandoddavarapu/coding-questions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/pavandoddavarapu/coding-questions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pavandoddavarapu/coding-questions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1765-map-of-highest-peak](https://github.com/pavandoddavarapu/coding-questions/tree/main/1765-map-of-highest-peak/) | Medium |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1329-sort-the-matrix-diagonally](https://github.com/pavandoddavarapu/coding-questions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/pavandoddavarapu/coding-questions/tree/main/1333-filter-restaurants-by-vegan-friendly-price-and-distance/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pavandoddavarapu/coding-questions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/pavandoddavarapu/coding-questions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/pavandoddavarapu/coding-questions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pavandoddavarapu/coding-questions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/pavandoddavarapu/coding-questions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -367,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pavandoddavarapu/coding-questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pavandoddavarapu/coding-questions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pavandoddavarapu/coding-questions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1552-magnetic-force-between-two-balls](https://github.com/pavandoddavarapu/coding-questions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/pavandoddavarapu/coding-questions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pavandoddavarapu/coding-questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Union-Find
