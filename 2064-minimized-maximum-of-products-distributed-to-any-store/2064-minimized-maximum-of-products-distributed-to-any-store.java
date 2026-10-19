@@ -20,7 +20,7 @@ class Solution {
     public boolean helper(int mid,int n, int[] quantities){
         for(int i=0;i<quantities.length;i++){
             int a=quantities[i];
-            while(a>0){a=a-mid;n--;if(n<0)return false;}
+            n-=(a+mid-1)/mid;
             if(n<0)return false;
         }
         return true;
