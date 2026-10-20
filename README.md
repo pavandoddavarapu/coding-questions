@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/pavandoddavarapu/coding-questions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pavandoddavarapu/coding-questions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1765-map-of-highest-peak](https://github.com/pavandoddavarapu/coding-questions/tree/main/1765-map-of-highest-peak/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/pavandoddavarapu/coding-questions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/pavandoddavarapu/coding-questions/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/pavandoddavarapu/coding-questions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pavandoddavarapu/coding-questions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/pavandoddavarapu/coding-questions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/pavandoddavarapu/coding-questions/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/pavandoddavarapu/coding-questions/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/pavandoddavarapu/coding-questions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
@@ -260,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/pavandoddavarapu/coding-questions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pavandoddavarapu/coding-questions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pavandoddavarapu/coding-questions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/pavandoddavarapu/coding-questions/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/pavandoddavarapu/coding-questions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
