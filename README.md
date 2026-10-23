@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/pavandoddavarapu/coding-questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/pavandoddavarapu/coding-questions/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/pavandoddavarapu/coding-questions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/pavandoddavarapu/coding-questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/pavandoddavarapu/coding-questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pavandoddavarapu/coding-questions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/pavandoddavarapu/coding-questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0846-hand-of-straights](https://github.com/pavandoddavarapu/coding-questions/tree/main/0846-hand-of-straights/) | Medium |
 | [0912-sort-an-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/0912-sort-an-array/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/pavandoddavarapu/coding-questions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/pavandoddavarapu/coding-questions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/pavandoddavarapu/coding-questions/tree/main/1333-filter-restaurants-by-vegan-friendly-price-and-distance/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pavandoddavarapu/coding-questions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
@@ -460,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/pavandoddavarapu/coding-questions/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/pavandoddavarapu/coding-questions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/pavandoddavarapu/coding-questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/pavandoddavarapu/coding-questions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pavandoddavarapu/coding-questions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -484,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/pavandoddavarapu/coding-questions/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/pavandoddavarapu/coding-questions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/pavandoddavarapu/coding-questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/pavandoddavarapu/coding-questions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pavandoddavarapu/coding-questions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -539,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/pavandoddavarapu/coding-questions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
