@@ -16,8 +16,8 @@ class Solution {
         while(!st.isEmpty()){
             char c=st.pop();
             if(c=='(' && count>0){count--;}
-            else{sb.insert(0,c+"");}
+            else{sb.append(c+"");}
         }
-        return sb.toString();
+        return sb.reverse().toString();
     }
 }
