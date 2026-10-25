@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1971-find-if-path-exists-in-graph](https://github.com/pavandoddavarapu/coding-questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pavandoddavarapu/coding-questions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
+| [2641-cousins-in-binary-tree-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1765-map-of-highest-peak](https://github.com/pavandoddavarapu/coding-questions/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/pavandoddavarapu/coding-questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
+| [2641-cousins-in-binary-tree-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/pavandoddavarapu/coding-questions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pavandoddavarapu/coding-questions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/pavandoddavarapu/coding-questions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
+| [2641-cousins-in-binary-tree-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/pavandoddavarapu/coding-questions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -475,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2196-create-binary-tree-from-descriptions](https://github.com/pavandoddavarapu/coding-questions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pavandoddavarapu/coding-questions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
+| [2641-cousins-in-binary-tree-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -500,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2196-create-binary-tree-from-descriptions](https://github.com/pavandoddavarapu/coding-questions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pavandoddavarapu/coding-questions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
+| [2641-cousins-in-binary-tree-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
