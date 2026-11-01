@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3527-find-the-most-common-response](https://github.com/pavandoddavarapu/coding-questions/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/pavandoddavarapu/coding-questions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3843-first-element-with-unique-frequency](https://github.com/pavandoddavarapu/coding-questions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3895-count-digit-appearances](https://github.com/pavandoddavarapu/coding-questions/tree/main/3895-count-digit-appearances/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/pavandoddavarapu/coding-questions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Depth-First Search
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3223-minimum-length-of-string-after-operations](https://github.com/pavandoddavarapu/coding-questions/tree/main/3223-minimum-length-of-string-after-operations/) | Medium |
 | [3527-find-the-most-common-response](https://github.com/pavandoddavarapu/coding-questions/tree/main/3527-find-the-most-common-response/) | Medium |
+| [3843-first-element-with-unique-frequency](https://github.com/pavandoddavarapu/coding-questions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -579,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3223-minimum-length-of-string-after-operations](https://github.com/pavandoddavarapu/coding-questions/tree/main/3223-minimum-length-of-string-after-operations/) | Medium |
 | [3527-find-the-most-common-response](https://github.com/pavandoddavarapu/coding-questions/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/pavandoddavarapu/coding-questions/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
+| [3843-first-element-with-unique-frequency](https://github.com/pavandoddavarapu/coding-questions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
