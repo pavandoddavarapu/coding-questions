@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pavandoddavarapu/coding-questions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/pavandoddavarapu/coding-questions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/pavandoddavarapu/coding-questions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/pavandoddavarapu/coding-questions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/pavandoddavarapu/coding-questions/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pavandoddavarapu/coding-questions/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pavandoddavarapu/coding-questions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2641-cousins-in-binary-tree-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/pavandoddavarapu/coding-questions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1971-find-if-path-exists-in-graph](https://github.com/pavandoddavarapu/coding-questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2641-cousins-in-binary-tree-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/pavandoddavarapu/coding-questions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/pavandoddavarapu/coding-questions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/pavandoddavarapu/coding-questions/tree/main/1765-map-of-highest-peak/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/pavandoddavarapu/coding-questions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/pavandoddavarapu/coding-questions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pavandoddavarapu/coding-questions/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/pavandoddavarapu/coding-questions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/pavandoddavarapu/coding-questions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -444,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-number-of-enclaves](https://github.com/pavandoddavarapu/coding-questions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/pavandoddavarapu/coding-questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/pavandoddavarapu/coding-questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/pavandoddavarapu/coding-questions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pavandoddavarapu/coding-questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
