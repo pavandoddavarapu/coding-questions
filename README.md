@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pavandoddavarapu/coding-questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/pavandoddavarapu/coding-questions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/pavandoddavarapu/coding-questions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/pavandoddavarapu/coding-questions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/pavandoddavarapu/coding-questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/pavandoddavarapu/coding-questions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pavandoddavarapu/coding-questions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/pavandoddavarapu/coding-questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/pavandoddavarapu/coding-questions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/pavandoddavarapu/coding-questions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/pavandoddavarapu/coding-questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/pavandoddavarapu/coding-questions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/pavandoddavarapu/coding-questions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/pavandoddavarapu/coding-questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/pavandoddavarapu/coding-questions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/pavandoddavarapu/coding-questions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/pavandoddavarapu/coding-questions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/pavandoddavarapu/coding-questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/pavandoddavarapu/coding-questions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/pavandoddavarapu/coding-questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
@@ -168,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/pavandoddavarapu/coding-questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/pavandoddavarapu/coding-questions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/pavandoddavarapu/coding-questions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/pavandoddavarapu/coding-questions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/pavandoddavarapu/coding-questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/pavandoddavarapu/coding-questions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/pavandoddavarapu/coding-questions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -446,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/pavandoddavarapu/coding-questions/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/pavandoddavarapu/coding-questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/pavandoddavarapu/coding-questions/tree/main/1020-number-of-enclaves/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/pavandoddavarapu/coding-questions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/pavandoddavarapu/coding-questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/pavandoddavarapu/coding-questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/pavandoddavarapu/coding-questions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
