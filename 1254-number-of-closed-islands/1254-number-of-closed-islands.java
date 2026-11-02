@@ -14,19 +14,16 @@ class Solution {
     }
     boolean flag=false;
     public void helper(int[][] grid,int i,int j){
-        Queue<int[]> q=new LinkedList<>();
-        q.add(new int[]{i,j});
         grid[i][j]=1;
-        while(!q.isEmpty()){
-            int a[]=q.poll();
+
             int is[]={-1,0,1,0};
             int js[]={0,1,0,-1};
             for(int m=0;m<is.length;m++){
-                int x=a[0]+is[m];
-                int y=a[1]+js[m];
+                int x=i+is[m];
+                int y=j+js[m];
                 if(x>=grid.length || y>=grid[0].length || x<0 || y<0){flag=true;}
-                else if(grid[x][y]==0){q.add(new int[]{x,y});grid[x][y]=1;}
+                else if(grid[x][y]==0){helper(grid,x,y);}
             }
-        }
+        
     }
 }
