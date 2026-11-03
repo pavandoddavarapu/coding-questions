@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3527-find-the-most-common-response](https://github.com/pavandoddavarapu/coding-questions/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/pavandoddavarapu/coding-questions/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/pavandoddavarapu/coding-questions/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
+| [3941-password-strength](https://github.com/pavandoddavarapu/coding-questions/tree/main/3941-password-strength/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3223-minimum-length-of-string-after-operations](https://github.com/pavandoddavarapu/coding-questions/tree/main/3223-minimum-length-of-string-after-operations/) | Medium |
 | [3527-find-the-most-common-response](https://github.com/pavandoddavarapu/coding-questions/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/pavandoddavarapu/coding-questions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
+| [3941-password-strength](https://github.com/pavandoddavarapu/coding-questions/tree/main/3941-password-strength/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
