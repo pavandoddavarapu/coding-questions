@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0377-combination-sum-iv](https://github.com/pavandoddavarapu/coding-questions/tree/main/0377-combination-sum-iv/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pavandoddavarapu/coding-questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/pavandoddavarapu/coding-questions/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0463-island-perimeter](https://github.com/pavandoddavarapu/coding-questions/tree/main/0463-island-perimeter/) | Easy |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/pavandoddavarapu/coding-questions/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/pavandoddavarapu/coding-questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/pavandoddavarapu/coding-questions/tree/main/0200-number-of-islands/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pavandoddavarapu/coding-questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/pavandoddavarapu/coding-questions/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/pavandoddavarapu/coding-questions/tree/main/0463-island-perimeter/) | Easy |
 | [0542-01-matrix](https://github.com/pavandoddavarapu/coding-questions/tree/main/0542-01-matrix/) | Medium |
@@ -370,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/pavandoddavarapu/coding-questions/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pavandoddavarapu/coding-questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/pavandoddavarapu/coding-questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -397,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0264-ugly-number-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pavandoddavarapu/coding-questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/pavandoddavarapu/coding-questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/pavandoddavarapu/coding-questions/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -435,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pavandoddavarapu/coding-questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/pavandoddavarapu/coding-questions/tree/main/0704-binary-search/) | Easy |
