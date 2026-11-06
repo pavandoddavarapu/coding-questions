@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pavandoddavarapu/coding-questions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pavandoddavarapu/coding-questions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1472-design-browser-history](https://github.com/pavandoddavarapu/coding-questions/tree/main/1472-design-browser-history/) | Medium |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/pavandoddavarapu/coding-questions/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pavandoddavarapu/coding-questions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/pavandoddavarapu/coding-questions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/pavandoddavarapu/coding-questions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/pavandoddavarapu/coding-questions/tree/main/0402-remove-k-digits/) | Medium |
 | [0846-hand-of-straights](https://github.com/pavandoddavarapu/coding-questions/tree/main/0846-hand-of-straights/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/pavandoddavarapu/coding-questions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/pavandoddavarapu/coding-questions/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/pavandoddavarapu/coding-questions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/pavandoddavarapu/coding-questions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/pavandoddavarapu/coding-questions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
@@ -313,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/pavandoddavarapu/coding-questions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/pavandoddavarapu/coding-questions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pavandoddavarapu/coding-questions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/pavandoddavarapu/coding-questions/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pavandoddavarapu/coding-questions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/pavandoddavarapu/coding-questions/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
@@ -386,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1329-sort-the-matrix-diagonally](https://github.com/pavandoddavarapu/coding-questions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/pavandoddavarapu/coding-questions/tree/main/1333-filter-restaurants-by-vegan-friendly-price-and-distance/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pavandoddavarapu/coding-questions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/pavandoddavarapu/coding-questions/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/pavandoddavarapu/coding-questions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/pavandoddavarapu/coding-questions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pavandoddavarapu/coding-questions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -605,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1267-count-servers-that-communicate](https://github.com/pavandoddavarapu/coding-questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/pavandoddavarapu/coding-questions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pavandoddavarapu/coding-questions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/pavandoddavarapu/coding-questions/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/pavandoddavarapu/coding-questions/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/pavandoddavarapu/coding-questions/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
