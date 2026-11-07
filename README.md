@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pavandoddavarapu/coding-questions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pavandoddavarapu/coding-questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/pavandoddavarapu/coding-questions/tree/main/1020-number-of-enclaves/) | Medium |
+| [1029-two-city-scheduling](https://github.com/pavandoddavarapu/coding-questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/pavandoddavarapu/coding-questions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/pavandoddavarapu/coding-questions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/pavandoddavarapu/coding-questions/tree/main/1267-count-servers-that-communicate/) | Medium |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/pavandoddavarapu/coding-questions/tree/main/0179-largest-number/) | Medium |
 | [0402-remove-k-digits](https://github.com/pavandoddavarapu/coding-questions/tree/main/0402-remove-k-digits/) | Medium |
 | [0846-hand-of-straights](https://github.com/pavandoddavarapu/coding-questions/tree/main/0846-hand-of-straights/) | Medium |
+| [1029-two-city-scheduling](https://github.com/pavandoddavarapu/coding-questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/pavandoddavarapu/coding-questions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/pavandoddavarapu/coding-questions/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
@@ -387,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/pavandoddavarapu/coding-questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0846-hand-of-straights](https://github.com/pavandoddavarapu/coding-questions/tree/main/0846-hand-of-straights/) | Medium |
 | [0912-sort-an-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/0912-sort-an-array/) | Medium |
+| [1029-two-city-scheduling](https://github.com/pavandoddavarapu/coding-questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/pavandoddavarapu/coding-questions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/pavandoddavarapu/coding-questions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/pavandoddavarapu/coding-questions/tree/main/1333-filter-restaurants-by-vegan-friendly-price-and-distance/) | Medium |
@@ -709,4 +712,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/0912-sort-an-array/) | Medium |
+## Hungarian Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1029-two-city-scheduling](https://github.com/pavandoddavarapu/coding-questions/tree/main/1029-two-city-scheduling/) | Medium |
+## Successive Shortest Path Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1029-two-city-scheduling](https://github.com/pavandoddavarapu/coding-questions/tree/main/1029-two-city-scheduling/) | Medium |
 <!---LeetCode Topics End-->
