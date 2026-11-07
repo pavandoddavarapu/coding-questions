@@ -9,6 +9,7 @@ class Solution {
         for(int i=0;i<s1.length();i++){
             if(a[i]<b[i])f1=false;
             if(a[i]>b[i])f2=false;
+            if(f1==false && f2==false)return false;
         }
         return f1||f2;
     }
