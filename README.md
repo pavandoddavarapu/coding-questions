@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2225-find-players-with-zero-or-one-losses](https://github.com/pavandoddavarapu/coding-questions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/pavandoddavarapu/coding-questions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/pavandoddavarapu/coding-questions/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/pavandoddavarapu/coding-questions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/pavandoddavarapu/coding-questions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/pavandoddavarapu/coding-questions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pavandoddavarapu/coding-questions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pavandoddavarapu/coding-questions/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/pavandoddavarapu/coding-questions/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/pavandoddavarapu/coding-questions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pavandoddavarapu/coding-questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pavandoddavarapu/coding-questions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -414,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/pavandoddavarapu/coding-questions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/pavandoddavarapu/coding-questions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pavandoddavarapu/coding-questions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -535,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pavandoddavarapu/coding-questions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/pavandoddavarapu/coding-questions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/pavandoddavarapu/coding-questions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/pavandoddavarapu/coding-questions/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 ## Tree
