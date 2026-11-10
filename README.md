@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2428-maximum-sum-of-an-hourglass](https://github.com/pavandoddavarapu/coding-questions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/pavandoddavarapu/coding-questions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pavandoddavarapu/coding-questions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/pavandoddavarapu/coding-questions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/pavandoddavarapu/coding-questions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/pavandoddavarapu/coding-questions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/pavandoddavarapu/coding-questions/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/pavandoddavarapu/coding-questions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/pavandoddavarapu/coding-questions/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -338,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2225-find-players-with-zero-or-one-losses](https://github.com/pavandoddavarapu/coding-questions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/pavandoddavarapu/coding-questions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pavandoddavarapu/coding-questions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/pavandoddavarapu/coding-questions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2641-cousins-in-binary-tree-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/pavandoddavarapu/coding-questions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -419,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/pavandoddavarapu/coding-questions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/pavandoddavarapu/coding-questions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pavandoddavarapu/coding-questions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -437,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1424-diagonal-traverse-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/1424-diagonal-traverse-ii/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/pavandoddavarapu/coding-questions/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
