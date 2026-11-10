@@ -454,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1622-fancy-sequence](https://github.com/pavandoddavarapu/coding-questions/tree/main/1622-fancy-sequence/) | Hard |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pavandoddavarapu/coding-questions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3227-vowels-game-in-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/3227-vowels-game-in-a-string/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/pavandoddavarapu/coding-questions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3895-count-digit-appearances](https://github.com/pavandoddavarapu/coding-questions/tree/main/3895-count-digit-appearances/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -525,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/pavandoddavarapu/coding-questions/tree/main/0377-combination-sum-iv/) | Medium |
 | [0542-01-matrix](https://github.com/pavandoddavarapu/coding-questions/tree/main/0542-01-matrix/) | Medium |
 | [0877-stone-game](https://github.com/pavandoddavarapu/coding-questions/tree/main/0877-stone-game/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/pavandoddavarapu/coding-questions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -741,4 +743,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1029-two-city-scheduling](https://github.com/pavandoddavarapu/coding-questions/tree/main/1029-two-city-scheduling/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/pavandoddavarapu/coding-questions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 <!---LeetCode Topics End-->
