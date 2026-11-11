@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1552-magnetic-force-between-two-balls](https://github.com/pavandoddavarapu/coding-questions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/pavandoddavarapu/coding-questions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pavandoddavarapu/coding-questions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1686-stone-game-vi](https://github.com/pavandoddavarapu/coding-questions/tree/main/1686-stone-game-vi/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/pavandoddavarapu/coding-questions/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/pavandoddavarapu/coding-questions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/pavandoddavarapu/coding-questions/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/pavandoddavarapu/coding-questions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/pavandoddavarapu/coding-questions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1686-stone-game-vi](https://github.com/pavandoddavarapu/coding-questions/tree/main/1686-stone-game-vi/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/pavandoddavarapu/coding-questions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/pavandoddavarapu/coding-questions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
@@ -416,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1552-magnetic-force-between-two-balls](https://github.com/pavandoddavarapu/coding-questions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/pavandoddavarapu/coding-questions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pavandoddavarapu/coding-questions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1686-stone-game-vi](https://github.com/pavandoddavarapu/coding-questions/tree/main/1686-stone-game-vi/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/pavandoddavarapu/coding-questions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/pavandoddavarapu/coding-questions/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
@@ -439,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/pavandoddavarapu/coding-questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0912-sort-an-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/0912-sort-an-array/) | Medium |
 | [1424-diagonal-traverse-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/1424-diagonal-traverse-ii/) | Medium |
+| [1686-stone-game-vi](https://github.com/pavandoddavarapu/coding-questions/tree/main/1686-stone-game-vi/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/pavandoddavarapu/coding-questions/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
@@ -460,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/pavandoddavarapu/coding-questions/tree/main/0877-stone-game/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/pavandoddavarapu/coding-questions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1622-fancy-sequence](https://github.com/pavandoddavarapu/coding-questions/tree/main/1622-fancy-sequence/) | Hard |
+| [1686-stone-game-vi](https://github.com/pavandoddavarapu/coding-questions/tree/main/1686-stone-game-vi/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pavandoddavarapu/coding-questions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3227-vowels-game-in-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pavandoddavarapu/coding-questions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -710,16 +715,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/pavandoddavarapu/coding-questions/tree/main/0877-stone-game/) | Medium |
+| [1686-stone-game-vi](https://github.com/pavandoddavarapu/coding-questions/tree/main/1686-stone-game-vi/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/pavandoddavarapu/coding-questions/tree/main/0877-stone-game/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/pavandoddavarapu/coding-questions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1686-stone-game-vi](https://github.com/pavandoddavarapu/coding-questions/tree/main/1686-stone-game-vi/) | Medium |
 | [3227-vowels-game-in-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/pavandoddavarapu/coding-questions/tree/main/0877-stone-game/) | Medium |
+| [1686-stone-game-vi](https://github.com/pavandoddavarapu/coding-questions/tree/main/1686-stone-game-vi/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
