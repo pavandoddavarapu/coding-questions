@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/pavandoddavarapu/coding-questions/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pavandoddavarapu/coding-questions/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 | [3527-find-the-most-common-response](https://github.com/pavandoddavarapu/coding-questions/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/pavandoddavarapu/coding-questions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pavandoddavarapu/coding-questions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/pavandoddavarapu/coding-questions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2661-first-completely-painted-row-or-column](https://github.com/pavandoddavarapu/coding-questions/tree/main/2661-first-completely-painted-row-or-column/) | Medium |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pavandoddavarapu/coding-questions/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/pavandoddavarapu/coding-questions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/pavandoddavarapu/coding-questions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Database
@@ -229,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2182-construct-string-with-repeat-limit](https://github.com/pavandoddavarapu/coding-questions/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/pavandoddavarapu/coding-questions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pavandoddavarapu/coding-questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pavandoddavarapu/coding-questions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Stack
@@ -428,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pavandoddavarapu/coding-questions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pavandoddavarapu/coding-questions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Heap (Priority Queue)
@@ -446,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/pavandoddavarapu/coding-questions/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
