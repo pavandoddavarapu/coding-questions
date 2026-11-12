@@ -522,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/pavandoddavarapu/coding-questions/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/pavandoddavarapu/coding-questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/pavandoddavarapu/coding-questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/pavandoddavarapu/coding-questions/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/pavandoddavarapu/coding-questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pavandoddavarapu/coding-questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3898-find-the-degree-of-each-vertex](https://github.com/pavandoddavarapu/coding-questions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -776,4 +777,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/pavandoddavarapu/coding-questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/pavandoddavarapu/coding-questions/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 <!---LeetCode Topics End-->
