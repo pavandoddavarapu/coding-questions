@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/pavandoddavarapu/coding-questions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1472-design-browser-history](https://github.com/pavandoddavarapu/coding-questions/tree/main/1472-design-browser-history/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/pavandoddavarapu/coding-questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/pavandoddavarapu/coding-questions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/pavandoddavarapu/coding-questions/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -376,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/pavandoddavarapu/coding-questions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pavandoddavarapu/coding-questions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/pavandoddavarapu/coding-questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/pavandoddavarapu/coding-questions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -474,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1622-fancy-sequence](https://github.com/pavandoddavarapu/coding-questions/tree/main/1622-fancy-sequence/) | Hard |
 | [1686-stone-game-vi](https://github.com/pavandoddavarapu/coding-questions/tree/main/1686-stone-game-vi/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pavandoddavarapu/coding-questions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/pavandoddavarapu/coding-questions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3227-vowels-game-in-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pavandoddavarapu/coding-questions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3895-count-digit-appearances](https://github.com/pavandoddavarapu/coding-questions/tree/main/3895-count-digit-appearances/) | Medium |
