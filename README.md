@@ -363,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/pavandoddavarapu/coding-questions/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/pavandoddavarapu/coding-questions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pavandoddavarapu/coding-questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pavandoddavarapu/coding-questions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0143-reorder-list](https://github.com/pavandoddavarapu/coding-questions/tree/main/0143-reorder-list/) | Medium |
@@ -554,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/pavandoddavarapu/coding-questions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/pavandoddavarapu/coding-questions/tree/main/0016-3sum-closest/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0143-reorder-list](https://github.com/pavandoddavarapu/coding-questions/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/pavandoddavarapu/coding-questions/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/0151-reverse-words-in-a-string/) | Medium |
