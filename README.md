@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-number-of-enclaves](https://github.com/pavandoddavarapu/coding-questions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1029-two-city-scheduling](https://github.com/pavandoddavarapu/coding-questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/pavandoddavarapu/coding-questions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1222-queens-that-can-attack-the-king](https://github.com/pavandoddavarapu/coding-questions/tree/main/1222-queens-that-can-attack-the-king/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/pavandoddavarapu/coding-questions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/pavandoddavarapu/coding-questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/pavandoddavarapu/coding-questions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/pavandoddavarapu/coding-questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/pavandoddavarapu/coding-questions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/pavandoddavarapu/coding-questions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1222-queens-that-can-attack-the-king](https://github.com/pavandoddavarapu/coding-questions/tree/main/1222-queens-that-can-attack-the-king/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/pavandoddavarapu/coding-questions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/pavandoddavarapu/coding-questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/pavandoddavarapu/coding-questions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/pavandoddavarapu/coding-questions/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/pavandoddavarapu/coding-questions/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1222-queens-that-can-attack-the-king](https://github.com/pavandoddavarapu/coding-questions/tree/main/1222-queens-that-can-attack-the-king/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/pavandoddavarapu/coding-questions/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
