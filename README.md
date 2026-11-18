@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/pavandoddavarapu/coding-questions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2661-first-completely-painted-row-or-column](https://github.com/pavandoddavarapu/coding-questions/tree/main/2661-first-completely-painted-row-or-column/) | Medium |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/pavandoddavarapu/coding-questions/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pavandoddavarapu/coding-questions/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/pavandoddavarapu/coding-questions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2661-first-completely-painted-row-or-column](https://github.com/pavandoddavarapu/coding-questions/tree/main/2661-first-completely-painted-row-or-column/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3223-minimum-length-of-string-after-operations](https://github.com/pavandoddavarapu/coding-questions/tree/main/3223-minimum-length-of-string-after-operations/) | Medium |
 | [3527-find-the-most-common-response](https://github.com/pavandoddavarapu/coding-questions/tree/main/3527-find-the-most-common-response/) | Medium |
