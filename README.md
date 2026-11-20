@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/pavandoddavarapu/coding-questions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/pavandoddavarapu/coding-questions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2661-first-completely-painted-row-or-column](https://github.com/pavandoddavarapu/coding-questions/tree/main/2661-first-completely-painted-row-or-column/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pavandoddavarapu/coding-questions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/pavandoddavarapu/coding-questions/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pavandoddavarapu/coding-questions/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
@@ -372,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2641-cousins-in-binary-tree-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/pavandoddavarapu/coding-questions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2661-first-completely-painted-row-or-column](https://github.com/pavandoddavarapu/coding-questions/tree/main/2661-first-completely-painted-row-or-column/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pavandoddavarapu/coding-questions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -666,6 +668,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pavandoddavarapu/coding-questions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pavandoddavarapu/coding-questions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/pavandoddavarapu/coding-questions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pavandoddavarapu/coding-questions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
