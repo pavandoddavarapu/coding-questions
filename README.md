@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/pavandoddavarapu/coding-questions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1861-rotating-the-box](https://github.com/pavandoddavarapu/coding-questions/tree/main/1861-rotating-the-box/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [1905-count-sub-islands](https://github.com/pavandoddavarapu/coding-questions/tree/main/1905-count-sub-islands/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/pavandoddavarapu/coding-questions/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pavandoddavarapu/coding-questions/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/pavandoddavarapu/coding-questions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/pavandoddavarapu/coding-questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/pavandoddavarapu/coding-questions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+| [1905-count-sub-islands](https://github.com/pavandoddavarapu/coding-questions/tree/main/1905-count-sub-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/pavandoddavarapu/coding-questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pavandoddavarapu/coding-questions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-deepest-leaves-sum](https://github.com/pavandoddavarapu/coding-questions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/pavandoddavarapu/coding-questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/pavandoddavarapu/coding-questions/tree/main/1765-map-of-highest-peak/) | Medium |
+| [1905-count-sub-islands](https://github.com/pavandoddavarapu/coding-questions/tree/main/1905-count-sub-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/pavandoddavarapu/coding-questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2641-cousins-in-binary-tree-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
@@ -205,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/pavandoddavarapu/coding-questions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/pavandoddavarapu/coding-questions/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1861-rotating-the-box](https://github.com/pavandoddavarapu/coding-questions/tree/main/1861-rotating-the-box/) | Medium |
+| [1905-count-sub-islands](https://github.com/pavandoddavarapu/coding-questions/tree/main/1905-count-sub-islands/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/pavandoddavarapu/coding-questions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/pavandoddavarapu/coding-questions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2661-first-completely-painted-row-or-column](https://github.com/pavandoddavarapu/coding-questions/tree/main/2661-first-completely-painted-row-or-column/) | Medium |
@@ -551,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-number-of-enclaves](https://github.com/pavandoddavarapu/coding-questions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/pavandoddavarapu/coding-questions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/pavandoddavarapu/coding-questions/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1905-count-sub-islands](https://github.com/pavandoddavarapu/coding-questions/tree/main/1905-count-sub-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/pavandoddavarapu/coding-questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/pavandoddavarapu/coding-questions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pavandoddavarapu/coding-questions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
