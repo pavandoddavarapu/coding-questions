@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/pavandoddavarapu/coding-questions/tree/main/0200-number-of-islands/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0341-flatten-nested-list-iterator](https://github.com/pavandoddavarapu/coding-questions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/pavandoddavarapu/coding-questions/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/pavandoddavarapu/coding-questions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0463-island-perimeter](https://github.com/pavandoddavarapu/coding-questions/tree/main/0463-island-perimeter/) | Easy |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/pavandoddavarapu/coding-questions/tree/main/0071-simplify-path/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pavandoddavarapu/coding-questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/pavandoddavarapu/coding-questions/tree/main/0143-reorder-list/) | Medium |
+| [0341-flatten-nested-list-iterator](https://github.com/pavandoddavarapu/coding-questions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0402-remove-k-digits](https://github.com/pavandoddavarapu/coding-questions/tree/main/0402-remove-k-digits/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/pavandoddavarapu/coding-questions/tree/main/0735-asteroid-collision/) | Medium |
@@ -414,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/pavandoddavarapu/coding-questions/tree/main/0146-lru-cache/) | Medium |
+| [0341-flatten-nested-list-iterator](https://github.com/pavandoddavarapu/coding-questions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [1472-design-browser-history](https://github.com/pavandoddavarapu/coding-questions/tree/main/1472-design-browser-history/) | Medium |
 | [1622-fancy-sequence](https://github.com/pavandoddavarapu/coding-questions/tree/main/1622-fancy-sequence/) | Hard |
 ## Doubly-Linked List
@@ -626,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/pavandoddavarapu/coding-questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0341-flatten-nested-list-iterator](https://github.com/pavandoddavarapu/coding-questions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/pavandoddavarapu/coding-questions/tree/main/0623-add-one-row-to-tree/) | Medium |
@@ -838,4 +842,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/pavandoddavarapu/coding-questions/tree/main/0229-majority-element-ii/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/pavandoddavarapu/coding-questions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/pavandoddavarapu/coding-questions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 <!---LeetCode Topics End-->
