@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/pavandoddavarapu/coding-questions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/pavandoddavarapu/coding-questions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/pavandoddavarapu/coding-questions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/pavandoddavarapu/coding-questions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pavandoddavarapu/coding-questions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/pavandoddavarapu/coding-questions/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
@@ -378,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2196-create-binary-tree-from-descriptions](https://github.com/pavandoddavarapu/coding-questions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/pavandoddavarapu/coding-questions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/pavandoddavarapu/coding-questions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/pavandoddavarapu/coding-questions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pavandoddavarapu/coding-questions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/pavandoddavarapu/coding-questions/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
@@ -472,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pavandoddavarapu/coding-questions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/pavandoddavarapu/coding-questions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/pavandoddavarapu/coding-questions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/pavandoddavarapu/coding-questions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/pavandoddavarapu/coding-questions/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/pavandoddavarapu/coding-questions/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
@@ -612,6 +615,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pavandoddavarapu/coding-questions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/pavandoddavarapu/coding-questions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/pavandoddavarapu/coding-questions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/pavandoddavarapu/coding-questions/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/pavandoddavarapu/coding-questions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/pavandoddavarapu/coding-questions/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
