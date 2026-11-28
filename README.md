@@ -317,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/pavandoddavarapu/coding-questions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pavandoddavarapu/coding-questions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pavandoddavarapu/coding-questions/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/pavandoddavarapu/coding-questions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/pavandoddavarapu/coding-questions/tree/main/1859-sorting-the-sentence/) | Easy |
@@ -370,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/pavandoddavarapu/coding-questions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/pavandoddavarapu/coding-questions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pavandoddavarapu/coding-questions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pavandoddavarapu/coding-questions/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/pavandoddavarapu/coding-questions/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pavandoddavarapu/coding-questions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pavandoddavarapu/coding-questions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -769,6 +771,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pavandoddavarapu/coding-questions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pavandoddavarapu/coding-questions/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/pavandoddavarapu/coding-questions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/pavandoddavarapu/coding-questions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/pavandoddavarapu/coding-questions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -843,6 +846,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/pavandoddavarapu/coding-questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pavandoddavarapu/coding-questions/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/pavandoddavarapu/coding-questions/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
@@ -856,4 +860,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/pavandoddavarapu/coding-questions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pavandoddavarapu/coding-questions/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pavandoddavarapu/coding-questions/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 <!---LeetCode Topics End-->
